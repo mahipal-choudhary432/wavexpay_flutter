@@ -1,16 +1,16 @@
 # wavexpay_flutter
+# Run project
+step 1 : copy github repositry in vs code
+step 2 : open terminal in vs code
+step 3 : run command - flutter pub get
+step 4 : run command - flutter run
+ # check my flutter app images , my app look like this 
+[WhatsApp Unknown 2025-11-03 at 3.01.58 PM.zip](https://github.com/user-attachments/files/23300310/WhatsApp.Unknown.2025-11-03.at.3.01.58.PM.zip)
 
-A new Flutter project.
+ 
+ 
+## 📥 Download APK
 
-## Getting Started
+👉 [Click here to Download the APK](https://your-apk-link.com/app.apk)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
